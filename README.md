@@ -1,4 +1,4 @@
-# Founders and Coders - Resources
+# FAC Application Resources
 
 - [Information Evening Live Stream](https://www.facebook.com/foundersandcoders/videos/vb.1403975299820269/1890239881193806/?type=2&theater) 
 - [FAC's Recommended Materials](https://github.com/foundersandcoders/recommended-materials)
