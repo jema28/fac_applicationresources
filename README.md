@@ -7,8 +7,8 @@
 
 ### Collaborative Programming
 
-- [Cloud 9](https://c9.io/)
-- [Appear In](https://appear.in)
+- [Cloud 9](https://c9.io/) | "Code together in real time"
+- [Appear In](https://appear.in) | "Create a room link and share it"
 
 
 ## Codewars | Writing Your Own Kata 
@@ -44,6 +44,7 @@ Visual Guides:
 
 #### Colour
 
+- [Coolors](https://coolors.co/)
 - [Paletton](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
 - [Adobe Color](https://color.adobe.com/create/color-wheel/?base=2&rule=Compound&selected=1&name=My%20Color%20Theme&mode=rgb&rgbvalues=0.8,0.47037097782831555,0.07999999999999999,0.6,0.43518548891415776,0.24,1,0.25051524698392313,0,0.25,1,0.6146313567957691,0.07999999999999999,0.8,0.22627251761845396&swatchOrder=0,1,2,3,4)
 - [Color Contrast Checker](http://webaim.org/resources/contrastchecker/)
