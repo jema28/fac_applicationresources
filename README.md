@@ -1,6 +1,6 @@
 # Founders and Coders - Resources
 
-- [Application Information Evening Live Stream](https://www.facebook.com/foundersandcoders/videos/vb.1403975299820269/1890239881193806/?type=2&theater) 
+- [Information Evening Live Stream](https://www.facebook.com/foundersandcoders/videos/vb.1403975299820269/1890239881193806/?type=2&theater) 
 - [FAC's Recommended Materials](https://github.com/foundersandcoders/recommended-materials)
 - [MDN (Mozilla Developer Network)](https://developer.mozilla.org/en-US/) for JavaScript documentation.
 - [Repl.it](https://repl.it/) for testing code and debugging.
