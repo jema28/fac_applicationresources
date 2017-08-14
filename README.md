@@ -40,7 +40,7 @@ CSS Tricks Guides:
 - [Complete Guide Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 Visual Guides:
-- [CSS References](http://cssreference.io/)
+- [CSS Reference](http://cssreference.io/)
 - [HTML Reference](http://htmlreference.io/)
 
 #### Design
