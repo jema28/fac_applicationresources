@@ -66,8 +66,8 @@ Visual Guides:
 [Codebar - JavaScript Lesson 1](http://tutorials.codebar.io/js/lesson1/tutorial.htmlhttp://tutorials.codebar.io/js/lesson2/tutorial.html) 
 
 #### Regular Expressions
-[Regex Pal](http://www.regexpal.com/) & [Regexr](http://regexr.com/)
-[Demystifying Regular Expressions](https://www.youtube.com/watch?v=EkluES9Rvak)
+- [Regex Pal](http://www.regexpal.com/) & [Regexr](http://regexr.com/)
+- [Demystifying Regular Expressions](https://www.youtube.com/watch?v=EkluES9Rvak)
 
 #### Functional Programming
 
