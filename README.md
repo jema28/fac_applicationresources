@@ -21,7 +21,7 @@
 [Dropbox link](http://bit.ly/2fEo24Z) to all Kata resources and documentation.
 
 
-## One-page website
+## One-page Website
 
 #### Setting up your Github Page
 
