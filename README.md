@@ -5,6 +5,11 @@
 - [MDN (Mozilla Developer Network)](https://developer.mozilla.org/en-US/) for JavaScript documentation.
 - [Repl.it](https://repl.it/) for testing code and debugging.
 
+### Practice Coding
+
+- [HackerRank](https://www.hackerrank.com/)
+- [CodeFights](https://codefights.com/)
+
 ### Collaborative Programming
 
 - [Cloud 9](https://c9.io/) | "Code together in real time"
@@ -86,8 +91,3 @@ Visual Guides:
 - [The Complete Web Developer Course 2.0](https://www.udemy.com/the-complete-web-developer-course-2/)
 - [Build Responsive Real World Websites with HTML5 and CSS3](https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3/)
 - [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/learn/v4/)
-
-## Practice Coding
-
-- [HackerRank](https://www.hackerrank.com/)
-- [CodeFights](https://codefights.com/)
