@@ -69,8 +69,8 @@ Visual Guides:
 
 ## JavaScript Tutorials
 
--[Codebar - JavaScript Lesson 1](http://tutorials.codebar.io/js/lesson1/tutorial.htmlhttp://tutorials.codebar.io/js/lesson2/tutorial.html) 
--(More Codebar tutorials can be found [here](http://tutorials.codebar.io/).
+- [Codebar - JavaScript Lesson 1](http://tutorials.codebar.io/js/lesson1/tutorial.htmlhttp://tutorials.codebar.io/js/lesson2/tutorial.html) 
+- (More Codebar tutorials can be found [here](http://tutorials.codebar.io/).
 
 #### Regular Expressions
 - [Regex Pal](http://www.regexpal.com/) & [Regexr](http://regexr.com/)
