@@ -12,8 +12,8 @@
 
 ### Collaborative Programming
 
-- [Cloud 9](https://c9.io/) | "Code together in real time"
-- [Appear In](https://appear.in) | "Create a room link and share it"
+- [Cloud 9](https://c9.io/)
+- [Appear In](https://appear.in)
 
 
 ## Codewars | Writing Your Own Kata 
@@ -70,6 +70,7 @@ Visual Guides:
 ## JavaScript Tutorials
 
 [Codebar - JavaScript Lesson 1](http://tutorials.codebar.io/js/lesson1/tutorial.htmlhttp://tutorials.codebar.io/js/lesson2/tutorial.html) 
+(More Codebar tutorials can be found [here](http://tutorials.codebar.io/).
 
 #### Regular Expressions
 - [Regex Pal](http://www.regexpal.com/) & [Regexr](http://regexr.com/)
