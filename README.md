@@ -71,6 +71,7 @@ Visual Guides:
 
 - [Codebar - JavaScript Lesson 1](http://tutorials.codebar.io/js/lesson1/tutorial.htmlhttp://tutorials.codebar.io/js/lesson2/tutorial.html) 
 - More Codebar tutorials can be found [here](http://tutorials.codebar.io/).
+- [Eloquent JavaScript](http://eloquentjavascript.net/)
 
 #### Regular Expressions
 - [Regex Pal](http://www.regexpal.com/) & [Regexr](http://regexr.com/)
