@@ -64,6 +64,9 @@ Visual Guides:
 - [Introduction to Gitub](https://egghead.io/lessons/javascript-introduction-to-github)
 - [How to Use Git and Github](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 - [GitIgnore](https://www.atlassian.com/git/tutorials/gitignore) & [Github - Ignoring Files](https://help.github.com/articles/ignoring-files/)
+- [TryGit](https://try.github.io/levels/1/challenges/1)
+- [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
+- [Learn Git Branching](http://learngitbranching.js.org/)
 
 ***
 
